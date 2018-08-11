@@ -1,2 +1,1 @@
-# za_majmune
-razduvane skripte
+Calculator test
